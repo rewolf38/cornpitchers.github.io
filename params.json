@@ -1,6 +1,6 @@
 {
-  "name": "Cornpitchers.GitHub.io",
+  "name": "Shovlin's Cornhole",
   "tagline": "website",
-  "body": "#Cornhole League \r\n---\r\n\r\nTeam Name | Player\r\n------------ | -------------\r\n1 | Person 1\r\n1 | Person 2",
+  "body": "#Cornhole League \r\n---\r\n\r\nTeam | Total Pts | Wins | Losses\r\n-----|-----------|------|--------\r\n1 | 63 | 3 | 0 \r\n2 | 57 | 1 | 2\r\n3 | 53 | 0 | 3\r\n4 | 54 | 2 | 1\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
